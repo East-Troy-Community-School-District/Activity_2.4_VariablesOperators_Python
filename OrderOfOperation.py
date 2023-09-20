@@ -1,7 +1,8 @@
 '''
 OrderOfOperations
-12/8/2022
-Python I
+Pawelski
+9/20/2023
+Introduction to Computer Science
 
 Instructions
 Read the code and predict what it will display to

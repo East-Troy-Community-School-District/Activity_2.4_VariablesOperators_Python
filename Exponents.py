@@ -1,7 +1,8 @@
 '''
 Exponents
-12/8/2022
-Python I
+Pawelski
+9/20/2023
+Introduction to Computer Science
 
 Instructions  
 Read the code and run the program. You should see 6 numbers

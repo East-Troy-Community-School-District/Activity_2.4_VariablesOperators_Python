@@ -1,7 +1,8 @@
 '''
 Concatenation
-9/20/2022
-Python I
+Pawelski
+9/20/2023
+Introduction to Computer Science
 
 Instructions  
 Read the code and run the program. Were you surprised
